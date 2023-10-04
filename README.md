@@ -1,3 +1,4 @@
+![Alt text](image.png)
 # Data Extraction Toolkit
 ## Task Description
 The purpose of this toolkit is to facilitate the efficient extraction of diverse data types from messy API responses using regular expressions. Specific patterns have been identified to match and extract the following data categories:
